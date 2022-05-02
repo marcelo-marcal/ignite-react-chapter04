@@ -1,0 +1,31 @@
+{
+  "name": "ignite-react-chapter04",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/core": "^0.8.0",
+    "@chakra-ui/react": "^1.8.8",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.3",
+    "next": "12.1.5",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.30",
+    "@types/react": "^18.0.8",
+    "@types/styled-components": "^5.1.25",
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5",
+    "typescript": "^4.6.4"
+  }
+}
